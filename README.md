@@ -2,6 +2,7 @@
 PyNetem is a tool that allow the user to limit the bandwidth or simulate weak network.
 It does so by using iproute's tc command, but greatly simplifies its operation.
 And provide apis if you need in your work.
+- 基于TC和netem实现网络异常情况的模拟
 ## Installation
 ```
 pip install pynetem
